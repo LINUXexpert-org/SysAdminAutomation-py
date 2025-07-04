@@ -2,6 +2,20 @@
 """
 user_manage.py - User and Group Management: Create/remove users and groups, modify memberships, lock/unlock accounts.
 
+Copyright (C) 2025 LINUXexpert.org
+
+This program is free software: you can redistribute it and/or modify it 
+under the terms of the GNU General Public License as published by the 
+Free Software Foundation, version 3 of the License.
+
+This program is distributed in the hope that it will be useful, but 
+WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY 
+or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License 
+for more details.
+
+You should have received a copy of the GNU General Public License along 
+with this program. If not, see <https://www.gnu.org/licenses/>.
+
 Usage:
     user_manage.py adduser <username> [group]
     user_manage.py deluser <username>
